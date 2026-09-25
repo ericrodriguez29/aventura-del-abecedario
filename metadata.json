@@ -1,0 +1,6 @@
+{
+  "name": "¡El Mágico Abecedario! - Aventura y Trofeos",
+  "description": "Juego interactivo y colorido para aprender el abecedario, crear perfiles de usuario y ganar trofeos personalizados con el nombre del ganador grabado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
